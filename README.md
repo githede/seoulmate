@@ -21,3 +21,4 @@
  Windows 10, Spring boot 2.7.9, Java 11.0.16.1, Gradle 7.6.1, Lombok 1.18.26, Thymeleaf 3.0.14, Eclipse IDE, H2 2.1.214, <br>
  Bootstrap 5.3, jQuery 1.7.1, ubuntu, AWS EC2, AWS RDS, MySQL
 ## 📍 프로젝트 포트폴리오
+https://github.com/githede/seoulmate/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%86%8C%EA%B0%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%B5%9C%EC%A2%85.pdf
