@@ -18,4 +18,5 @@
 ## ⏰ 작업 기간
 2023.03.29 - 2023.04.05
 ## 개발 및 배포 환경
- Windows 10, Spring boot 2.7.9, Java 11.0.16.1, Gradle 7.6.1, Lombok 1.18.26, Thymeleaf 3.0.14, Eclipse IDE, H2 2.1.214, Bootstrap 5.3, jQuery 1.7.1, ubuntu, AWS EC2, AWS RDS, MySQL
+ Windows 10, Spring boot 2.7.9, Java 11.0.16.1, Gradle 7.6.1, Lombok 1.18.26, Thymeleaf 3.0.14, Eclipse IDE, H2 2.1.214, <br>
+ Bootstrap 5.3, jQuery 1.7.1, ubuntu, AWS EC2, AWS RDS, MySQL
